@@ -26,4 +26,4 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 </div>  
 
-passionate about technology graduate computer engineering university of lisbon faculty of sciences
+passionate about technology graduate computer engineering University of Lisbon Faculty of Sciences
