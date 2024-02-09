@@ -3,9 +3,7 @@
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ericksondagama?igsh=c3poaGFrMG04NmNj&utm_source=qr) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickson-cacondo-8a504b1a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-![Erickson's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericksondagama&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericksondagama)](https://github.com/anuraghazra/github-readme-stats)
+![Erickson's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericksondagama&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericksondagama)](https://github.com/anuraghazra/github-readme-stats)
 
 ## TECHNOLOGIES I USE MOST
 
