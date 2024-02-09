@@ -14,13 +14,21 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img align="center" height="80" wigth="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original-wordmark.svg" />
+  <img align="center" height="40" wigth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+
+
 
 <!---
 fonte das logo
 https://dev.to/envoy_/150-badges-for-github-pnk
+https://devicon.dev
+
+modelos
+https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md
 
 -->
+
 
 </div>  
 
